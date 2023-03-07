@@ -18,6 +18,5 @@ Website Figma -- https://www.figma.com/
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : https://www.figma.com/file/kiILPjBF9QRR1Q5RxIMU0X/Exercise-tracker?node-id=0%3A1&t=RRdU0EEoo4llPws4-1
+<img width="919" alt="CleanShot 2566-03-07 at 12 15 38@2x" src="https://user-images.githubusercontent.com/56375291/223406969-4204497b-38ba-45db-abfd-f121c598f7f2.png">
 
-
-<img width="781" alt="CleanShot 2566-03-07 at 12 00 26@2x" src="https://user-images.githubusercontent.com/56375291/223404008-85fae439-a81d-4b88-829c-870cc9df8ff4.png">
